@@ -1,5 +1,5 @@
 # mongodb-basics
-Mongodb Basics
+Mongodb Basics -NodeJS Task 2
 ## Mongo server file
 <img src="./assets/mongoServer.png" alt="Mongo Server file">
 ## Mongodb server running
