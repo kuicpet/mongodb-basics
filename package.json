@@ -1,0 +1,26 @@
+{
+  "name": "mongodb-basics",
+  "version": "1.0.0",
+  "description": "Mongodb Basics ## Mongo file <img src=\"/\" alt=\"\"> ## Mongodb server running <img src=\"/\" alt=\"\"> ## Database successfully created <img src=\"/\" alt=\"\"> ## Collection \"interns\" successfully created in database <img src=\"/\" alt=\"\">",
+  "main": "mongodb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuicpet/mongodb-basics.git"
+  },
+  "keywords": [
+    "mongodb",
+    "node"
+  ],
+  "author": "Kingsley Umujeyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuicpet/mongodb-basics/issues"
+  },
+  "homepage": "https://github.com/kuicpet/mongodb-basics#readme",
+  "dependencies": {
+    "mongodb": "^3.5.5"
+  }
+}
