@@ -1,6 +1,6 @@
 # mongodb-basics
 Mongodb Basics
-## Mongo file
+## Mongo server file
 <img src="./assets/mongoServer.png" alt="Mongo Server file">
 ## Mongodb server running
 <img src="./assets/MongodbServerRunning.png" alt="Mongo Server Running locally">
